@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Hitbox
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Backgorund
+  - bounching
+  - Enemys
+  - Hazards
+  - Bullet
+  - Touchable
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgorund
+    uniqueID: 343448417
+    locked: 0
+  - name: Water
+    uniqueID: 273671281
+    locked: 0
+  - name: Platforms
+    uniqueID: 2601901987
+    locked: 0
+  - name: ladder
+    uniqueID: 2263779609
+    locked: 0
+  - name: hazards
+    uniqueID: 1141103389
+    locked: 0
+  - name: Enemy
+    uniqueID: 3810674165
+    locked: 0
+  - name: Touchable
+    uniqueID: 205066623
+    locked: 0
+  - name: Boss
+    uniqueID: 2143597867
+    locked: 0
+  - name: player
+    uniqueID: 101238347
+    locked: 0
+  m_RenderingLayers:
+  - Default
